@@ -16,4 +16,10 @@
     <string name="subject_hint">Subject</string>
     <string name="message_hint">Message</string>
     <string name="send_button">Send</string>
+    <string name="starbuzz_logo">Starbuzz logo</string>
+    <string-array name="options">
+        <item>Drinks</item>
+        <item>Food</item>
+        <item>Stores</item>
+    </string-array>
 </resources>
