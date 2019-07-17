@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Practice</string>
+    <string name="edit_text">Enter your message</string>
+    <string name="button">Show my text</string>
+    <string name="Rbutton1">pic1</string>
+    <string name="Rbutton2">pic2</string>
+    <string name="Rbutton3">pic3</string>
+    <string name="question">How do you like your tea served?</string>
+    <string name="var1">HOT</string>
+    <string name="var2">COLD</string>
+    <string name="check1">Milk</string>
+    <string name="check2">Sugar</string>
+    <string name="check3">Lemon</string>
+    <string name="to_label">To:</string>
+    <string name="email_hint">Enter email address</string>
+    <string name="subject_hint">Subject</string>
+    <string name="message_hint">Message</string>
+    <string name="send_button">Send</string>
+</resources>
